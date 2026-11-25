@@ -22,7 +22,10 @@ Enlace GitHub: https://github.com/nirvana-alzate-data-analyst/Experimento_A-B
 Enlace GitHub: https://github.com/nirvana-alzate-data-analyst/Analisis_desempeno_rappiplus
 
 **Contacto**:
+
 **correo**: nirvanaalzate96@gmail.com
+
 **linkedin**: https://www.linkedin.com/in/nirvana-alzate-data-analyst/
+
 **GitHub**: https://github.com/nirvana-alzate-data-analyst/
 
