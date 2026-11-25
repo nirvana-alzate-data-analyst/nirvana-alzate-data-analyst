@@ -21,3 +21,8 @@ Enlace GitHub: https://github.com/nirvana-alzate-data-analyst/Experimento_A-B
 **Análisis de Negocio y Comportamiento de Usuarios (RappiPlus)**: Análisis integral de datos transaccionales y de comportamiento de clientes en entorno SQL y Python, segmentando perfiles de usuario, evaluando métricas de retención y creando reportes interactivos para optimizar estrategias de fidelización y conversión.
 Enlace GitHub: https://github.com/nirvana-alzate-data-analyst/Analisis_desempeno_rappiplus
 
+**Contacto**:
+**correo**: nirvanaalzate96@gmail.com
+**linkedin**: https://www.linkedin.com/in/nirvana-alzate-data-analyst/
+**GitHub**: https://github.com/nirvana-alzate-data-analyst/
+
